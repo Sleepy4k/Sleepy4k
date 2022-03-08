@@ -40,6 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleepy4k&" alt="sleepy4k" /></p>
 
-<iframe style="height:300px; width:300px;" src="https://renielcanlas.github.io">
-<b>IFrame is unavailable here</b>
-</iframe>
+<div class="github-card" data-github="Sleepy4k" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
