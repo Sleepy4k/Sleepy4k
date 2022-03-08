@@ -25,7 +25,6 @@
 
 - ⚡ Fun fact **I love writing some code in visual studio, and i like watching roleplay**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/benjamin4kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benjamin4kk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/benjamin4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="benjamin4k" height="30" width="40" /></a>
