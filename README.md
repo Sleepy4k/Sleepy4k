@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepy4k&label=Profile%20views&color=0e75b6&style=flat" alt="sleepy4k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sleepy4k" alt="sleepy4k" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sleepy4k&theme=onedark" alt="sleepy4k" /></a> </p>
 
 - 🔭 I’m currently working on [Central Indonesia Advanced FFA](https://github.com/Sleepy4k/central-advanced-ffa)
 
