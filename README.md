@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sleepy4k&theme=onedark" alt="sleepy4k" /></a> </p>
 
-- 🔭 I’m currently working on [none](https://github.com/Sleepy4k)
+- 🔭 I’m currently working on [NKCore](https://github.com/naka-studios/NKCore)
 
 - 🌱 I’m currently learning **LUA, PHP, Kotlin, Javascript**
 
