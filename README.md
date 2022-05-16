@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://instagram.com/benjamin4kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benjamin4kk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/benjamin4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="benjamin4k" height="30" width="40" /></a>
-<a href="https://discord.gg/Nakaaaa#8558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nakaaaa#8558" height="30" width="40" /></a>
+<a href="https://discord.gg/7rFQQ6yeW7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nakaaaa#8558" height="30" width="40" /></a>
 </p>
 
 <a href="https://github.com/Sleepy4k"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepy4k&show_icons=true&locale=en&layout=compact" alt="sleepy4k"/></p></a>
