@@ -6,19 +6,12 @@
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=sleepy4k&theme=onedark" alt="sleepy4k"/></p>
 
 - 🔭 I’m currently working on [NKCore](https://github.com/naka-studios)
-- 
 - 🌱 I’m currently learning **LUA, PHP, Kotlin, Javascript**
-
 - 👯 I’m looking to collaborate on [NKCore](https://github.com/naka-studios)
-
 - 🤝 I’m looking for help with [Fivem Snippets](https://github.com/Sleepy4k/naka-snippets)
-
 - 💬 Ask me about **lua, php, javascript**
-
 - 📫 How to reach me **pandu300478@gmail.com**
-
 - 📄 Platform project [Fivem](Fivem)
-
 - ⚡ Fun fact **I love writing some code in visual studio, and i like watching roleplay**
 
 <h3 align="left">Social Media :</h3>
