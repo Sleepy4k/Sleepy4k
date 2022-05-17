@@ -17,5 +17,5 @@
 <a href="https://discord.gg/7rFQQ6yeW7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nakaaaa#8558" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/Sleepy4k"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepy4k&show_icons=true&locale=en&layout=compact" alt="sleepy4k"/></p></a>
+<a href="https://github.com/Sleepy4k"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Sleepy4k&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
 <a href="https://discord.com/users/460453000129937408"><img src="https://lanyard-profile-readme.vercel.app/api/460453000129937408?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right"/></a>
