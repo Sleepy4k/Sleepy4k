@@ -18,4 +18,4 @@
 </p>
 
 <a href="https://github.com/Sleepy4k"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Sleepy4k&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
-<a href="https://discord.com/users/460453000129937408"><img src="https://lanyard-profile-readme.vercel.app/api/460453000129937408?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right"/></a>
+<a href="https://discord.com/users/460453000129937408"><img src="https://lanyard-profile-readme.vercel.app/api/460453000129937408?hideTimestamp=true&idleMessage=Sedang%20bersantai%20di%20tepi%20pantai" align="right"/></a>
