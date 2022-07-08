@@ -17,7 +17,6 @@
 <a href="https://discord.gg/7rFQQ6yeW7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nakaaaa#8558" height="30" width="40" /></a>
 </p>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Sleepy4k"><img witdh="40%" src="https://github-readme-stats.vercel.app/api?username=Sleepy4k&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
-  <a href="https://discord.com/users/460453000129937408"><img src="https://lanyard-profile-readme.vercel.app/api/460453000129937408?hideTimestamp=true&idleMessage=Sedang%20bersantai%20di%20tepi%20pantai"/></a>
 </div>
