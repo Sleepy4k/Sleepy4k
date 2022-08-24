@@ -2,8 +2,8 @@
 <h3 align="center">I'm interested in backend development</h3>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sleepy4k&theme=onedark" alt="sleepy4k"/></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepy4k&label=Profile%20views&color=0e75b6&style=flat" alt="sleepy4k"/></p>
 
+- 👁️ <img src="https://komarev.com/ghpvc/?username=sleepy4k&label=Profile%20views&color=0e75b6&style=flat" alt="sleepy4k"/>
 - 🔭 I'm currently developing on [NKCore](https://github.com/naka-studios)
 - 🌱 I'm currently learning **LUA, PHP, Kotlin, Javascript** language 
 - 💬 I can help you in **lua, php, javascript** programming language
