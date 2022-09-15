@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sleepy4k</h1>
-<h3 align="center">I'm interested in backend development</h3>
+# Apri Pandu Wicaksono
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sleepy4k&theme=onedark" alt="sleepy4k"/></p>
+Hi, 👋I’m Apri, a student from [Smk Telkom Purwokerto](https://github.com/smktelkompwt), also a software developer with 6 months intership experience who believes in changing the world. Usually use php, javascript, and css programming languages, for website programming I use the laravel framework, bootstrap, and vue javascript. I have a high curiosity to learn the features of a system 🚀
 
-- 👁️ <img src="https://komarev.com/ghpvc/?username=sleepy4k&label=Profile%20views&color=0e75b6&style=flat" alt="sleepy4k"/>
-- 🔭 I'm currently developing on [NKCore](https://github.com/naka-studios)
-- 🌱 I'm currently learning **LUA, PHP, Kotlin, Javascript** language 
-- 💬 I can help you in **lua, php, javascript** programming language
-- 📫 How to reach me **pandu300478@gmail.com**
-- ⚡ Fun fact **I love writing some code in visual studio, and i like watching roleplay**
+## ⚔️🛡Mission
+My mission in life isn't just to survive but to build something iconic. Maybe that is why I lead things, sometimes convince people why somethings are very important. 
 
-<h3 align="center">Social Media</h3>
-<p align="center">
-<a href="https://instagram.com/benjamin4kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benjamin4kk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/benjamin4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="benjamin4k" height="30" width="40" /></a>
-<a href="https://discord.gg/7rFQQ6yeW7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nakaaaa#8558" height="30" width="40" /></a>
-</p>
+I believe in diverse skill sets and people as they make products and communities unique. 
 
-<div align="center">
-  <a href="https://github.com/Sleepy4k"><img witdh="40%" src="https://github-readme-stats.vercel.app/api?username=Sleepy4k&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
-</div>
+## 🌱 Projects: 
+- NKCore [FFA And Roleplay Project Server](https://github.com/naka-studios)
+- Puskomedia [Online travel ticketing system](https://github.com/puskomedia)
+- Puskomedia [Online animal husbandry system](https://github.com/puskomedia)
+- Personal [Portofolio website](https://github.com/Sleepy4k/laravel-portofolio)
+- Personal [Basic customer relationship management](https://github.com/Sleepy4k/laravel-mini-crm)
+
+## 🌱 Education Background:
+- [SMP N 2 Purwokerto](https://www.smpn2purwokerto.sch.id) - Purwokerto, Indonesia
+- [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id) - Purwokerto, Indonesia
+
+## Get in touch
+- Instagram: https://instagram.com/benjamin4kk
+- Discord: https://discord.gg/7rFQQ6yeW7
+- Personal Website: https://benjamin4k.my.id (in progress)🚜🔩⛏⚒
