@@ -1,11 +1,11 @@
 # Apri Pandu Wicaksono
 
-Hi, 👋I’m Apri, a student from [Smk Telkom Purwokerto](https://github.com/smktelkompwt), also a software developer with 6 months intership experience who believes in changing the world. Usually use php, javascript, and css programming languages, for website programming I use the laravel framework, bootstrap, and vue javascript. I have a high curiosity to learn the features of a system 🚀
+>Hi, 👋I’m Apri, a student from [Smk Telkom Purwokerto](https://github.com/smktelkompwt), also a software developer with 6 months intership experience who believes in changing the world. Usually use php, javascript, and css programming languages, for website programming I use the laravel framework, bootstrap, and vue javascript. I have a high curiosity to learn the features of a system 🚀
 
 ## ⚔️🛡Mission
-My mission in life isn't just to survive but to build something iconic. Maybe that is why I lead things, sometimes convince people why somethings are very important. 
+>My mission in life isn't just to survive but to build something iconic. Maybe that is why I lead things, sometimes convince people why somethings are very important. 
 
-I believe in diverse skill sets and people as they make products and communities unique. 
+>I believe in diverse skill sets and people as they make products and communities unique. 
 
 ## 🌱 Projects: 
 - NKCore [FFA And Roleplay Project Server](https://github.com/naka-studios)
