@@ -23,5 +23,8 @@ I believe in diverse skill sets and people as they make products and communities
 - Discord: https://discord.gg/7rFQQ6yeW7
 - Personal Website: https://benjamin4k.my.id (in progress)🚜🔩⛏⚒
 
-## 🌱 See all repository
-[🔎 Show More](https://github.com/Sleepy4k?tab=repositories)
+## 🌱 Repository List
+- [laravel-mini-crm](https://github.com/Sleepy4k/laravel-mini-crm)
+- [laravel-portofolio](https://github.com/Sleepy4k/laravel-portofolio)
+- [naka-i18n](https://github.com/Sleepy4k/naka-i18n)
+- [🔎 show more](https://github.com/Sleepy4k?tab=repositories)
