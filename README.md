@@ -30,9 +30,10 @@
 - [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id) - Purwokerto, Indonesia
 
 ## 📱 Get in touch
-- Instagram: https://instagram.com/benjamin4kk
-- Discord: https://discord.gg/7rFQQ6yeW7
-- Personal Website: https://benjamin4k.my.id (in progress)🚜🔩⛏⚒
+- Instagram: [click here](https://instagram.com/benjamin4kk)
+- Email: [click here](mailto:pandu300478@gmail.com)
+- Discord: [click here](https://discord.gg/7rFQQ6yeW7)
+- Personal Website: [click here](https://benjamin4k.my.id) (in progress)🚜🔩⛏⚒
 
 ## 🌱 Repository List
 - [laravel-mini-crm](https://github.com/Sleepy4k/laravel-mini-crm)
