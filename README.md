@@ -14,6 +14,17 @@
 - Personal [Portofolio website](https://github.com/Sleepy4k/laravel-portofolio)
 - Personal [Basic customer relationship management](https://github.com/Sleepy4k/laravel-mini-crm)
 
+## 🌱 Experience: 
+1. [Smk Telkom](https://github.com/smktelkompwt) as Student
+- Learn basic features in laravel framework
+- Learn vanila php syntax
+- Learn basic html, css, and javascript
+
+2. [Puskomedia](https://github.com/puskomedia) as Backend Dev
+- Create and maintenance website
+- Researched laravel framework features
+- Responded to some project
+
 ## 🌱 Education Background:
 - [SMP N 2 Purwokerto](https://www.smpn2purwokerto.sch.id) - Purwokerto, Indonesia
 - [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id) - Purwokerto, Indonesia
