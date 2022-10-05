@@ -38,5 +38,5 @@
 ## 🌱 Repository List
 - [laravel-mini-crm](https://github.com/Sleepy4k/laravel-mini-crm)
 - [laravel-portofolio](https://github.com/Sleepy4k/laravel-portofolio)
-- [naka-i18n](https://github.com/Sleepy4k/naka-i18n)
+- [fivem-i18n](https://github.com/Sleepy4k/fivem-i18n)
 - [🔎 show more](https://github.com/Sleepy4k?tab=repositories)
