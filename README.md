@@ -33,7 +33,7 @@
 - Instagram: [click here](https://instagram.com/benjamin4kk)
 - Email: [click here](mailto:pandu300478@gmail.com)
 - Discord: [click here](https://discord.gg/7rFQQ6yeW7)
-- Personal Website: [click here](https://benjamin4k.my.id) (in progress)🚜🔩⛏⚒
+- Personal Website: [click here](https://benjamin4k.my.id)
 
 ## 🌱 Repository List
 - [laravel-mini-crm](https://github.com/Sleepy4k/laravel-mini-crm)
