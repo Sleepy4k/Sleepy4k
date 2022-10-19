@@ -16,9 +16,10 @@
 
 ## 💼 Experience: 
 1. [Smk Telkom](https://github.com/smktelkompwt) as Student
-- Learn basic features in laravel framework
 - Learn vanila php syntax
 - Learn basic html, css, and javascript
+- Learn basic features in laravel framework
+- Learn basic features in javascript framework
 
 2. [Puskomedia](https://github.com/puskomedia) as Backend Dev
 - Create and maintenance website
@@ -36,7 +37,7 @@
 - Personal Website: [click here](https://benjamin4k.my.id)
 
 ## 🌱 Repository List
+- [nodejs-ticketing](https://github.com/Sleepy4k/nodejs-ticketing)
+- [laravel-ebook-api](https://github.com/Sleepy4k/laravel-ebook-api)
 - [laravel-mini-crm](https://github.com/Sleepy4k/laravel-mini-crm)
-- [laravel-portofolio](https://github.com/Sleepy4k/laravel-portofolio)
-- [fivem-i18n](https://github.com/Sleepy4k/fivem-i18n)
 - [🔎 show more](https://github.com/Sleepy4k?tab=repositories)
