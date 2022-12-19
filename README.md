@@ -11,8 +11,6 @@
 - NKCore [FFA And Roleplay Project Server](https://github.com/naka-studios)
 - Puskomedia [Online travel ticketing system](https://github.com/puskomedia)
 - Puskomedia [Online animal husbandry system](https://github.com/puskomedia)
-- Personal [Portofolio website](https://github.com/Sleepy4k/laravel-portofolio)
-- Personal [Basic customer relationship management](https://github.com/Sleepy4k/laravel-mini-crm)
 
 ## 💼 Experience: 
 1. [Smk Telkom](https://github.com/smktelkompwt) as Student
@@ -20,6 +18,7 @@
 - Learn basic html, css, and javascript
 - Learn basic features in laravel framework
 - Learn basic features in javascript framework
+- Learn basic features in code igniter framework
 
 2. [Puskomedia](https://github.com/puskomedia) as Backend Dev
 - Create and maintenance website
@@ -31,13 +30,13 @@
 - [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id) - Purwokerto, Indonesia
 
 ## 📱 Get in touch
-- Instagram: [click here](https://instagram.com/benjamin4kk)
+- Instagram: [click here](https://instagram.com/artkana30)
 - Email: [click here](mailto:pandu300478@gmail.com)
 - Discord: [click here](https://discord.gg/7rFQQ6yeW7)
 - Personal Website: [click here](https://benjamin4k.my.id)
 
 ## 🌱 Repository List
-- [nodejs-ticketing](https://github.com/Sleepy4k/nodejs-ticketing)
-- [laravel-ebook-api](https://github.com/Sleepy4k/laravel-ebook-api)
-- [laravel-mini-crm](https://github.com/Sleepy4k/laravel-mini-crm)
-- [🔎 show more](https://github.com/Sleepy4k?tab=repositories)
+- [laravel-ebook](https://github.com/sleepy4k/laravel-ebook)
+- [laravel-eticket-concert](https://github.com/sleepy4k/laravel-eticket-concert)
+- [laravel-voting-osis](https://github.com/sleepy4k/laravel-voting-osis)
+- [🔎 show more](https://github.com/sleepy4k?tab=repositories)
