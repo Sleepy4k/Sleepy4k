@@ -14,6 +14,7 @@
 
 ## 💼 Experience: 
 1. [Smk Telkom](https://github.com/smktelkompwt) as Student
+- Learn cloud computing
 - Learn vanila php syntax
 - Learn basic html, css, and javascript
 - Learn basic features in laravel framework
