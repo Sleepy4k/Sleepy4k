@@ -7,11 +7,6 @@
 
 >I believe in diverse skill sets and people as they make products and communities unique. 
 
-## 📋 Projects: 
-- NKCore [FFA And Roleplay Project Server](https://github.com/naka-studios)
-- Puskomedia [Online travel ticketing system](https://github.com/puskomedia)
-- Puskomedia [Online animal husbandry system](https://github.com/puskomedia)
-
 ## 💼 Experience: 
 1. [Smk Telkom](https://github.com/smktelkompwt) as Student
 - Learn cloud computing
@@ -30,14 +25,7 @@
 - [SMP N 2 Purwokerto](https://www.smpn2purwokerto.sch.id) - Purwokerto, Indonesia
 - [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id) - Purwokerto, Indonesia
 
-## 📱 Get in touch
-- Instagram: [click here](https://instagram.com/artkana30)
-- Email: [click here](mailto:pandu300478@gmail.com)
-- Discord: [click here](https://discord.gg/7rFQQ6yeW7)
-- Personal Website: [click here](https://benjamin4k.my.id)
-
-## 🌱 Repository List
-- [laravel-ebook](https://github.com/sleepy4k/laravel-ebook)
-- [laravel-eticket-concert](https://github.com/sleepy4k/laravel-eticket-concert)
-- [laravel-voting-osis](https://github.com/sleepy4k/laravel-voting-osis)
-- [🔎 show more](https://github.com/sleepy4k?tab=repositories)
+## 📋 Projects: 
+- NKCore [FFA And Roleplay Project Server](https://github.com/naka-studios)
+- Puskomedia [Online travel ticketing system](https://github.com/puskomedia)
+- Puskomedia [Online animal husbandry system](https://github.com/puskomedia)
