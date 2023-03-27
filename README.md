@@ -8,7 +8,12 @@
 >I believe in diverse skill sets and people as they make products and communities unique. 
 
 ## 💼 Experience: 
-1. [Smk Telkom](https://github.com/smktelkompwt) as Student
+1. [Central Indonesia](https://github.com/Central-Indonesia) as Fullstack Dev
+- Create game server from lua language
+- Learn how to optimize client and server
+- Learn how to encrypt code
+
+2. [Smk Telkom](https://github.com/smktelkompwt) as Student
 - Learn cloud computing
 - Learn vanila php syntax
 - Learn basic html, css, and javascript
@@ -16,7 +21,7 @@
 - Learn basic features in javascript framework
 - Learn basic features in code igniter framework
 
-2. [Puskomedia](https://github.com/puskomedia) as Backend Dev
+3. [Puskomedia](https://github.com/puskomedia) as Backend Dev
 - Create and maintenance website
 - Researched laravel framework features
 - Responded to some project
@@ -24,8 +29,3 @@
 ## 🎓 Education Background:
 - [SMP N 2 Purwokerto](https://www.smpn2purwokerto.sch.id) - Purwokerto, Indonesia
 - [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id) - Purwokerto, Indonesia
-
-## 📋 Projects: 
-- NKCore [FFA And Roleplay Project Server](https://github.com/naka-studios)
-- Puskomedia [Online travel ticketing system](https://github.com/puskomedia)
-- Puskomedia [Online animal husbandry system](https://github.com/puskomedia)
