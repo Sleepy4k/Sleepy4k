@@ -27,7 +27,8 @@
 - Responded to some project
 
 4. [Braincode](https://gitlab.com/softegra-sinergi) as Backend Dev
-- Learn rust syntax
+- Learn actix web in rust
+- Learn tide in rust
 - Learn solidjs syntax
 
 ## 🎓 Education Background:
