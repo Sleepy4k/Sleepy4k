@@ -8,7 +8,7 @@
 >I believe in diverse skill sets and people as they make products and communities unique. 
 
 ## 💼 Experience: 
-1. [Central Indonesia](https://github.com/Central-Indonesia) as Fullstack Dev
+1. [Central Indonesia](https://github.com/Central-Indonesia) as Game Dev
 - Create game server from lua language
 - Learn how to optimize client and server
 - Learn how to encrypt code
