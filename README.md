@@ -32,5 +32,4 @@
 - Learn solidjs syntax
 
 ## 🎓 Education Background:
-- [SMP N 2 Purwokerto](https://www.smpn2purwokerto.sch.id) - Purwokerto, Indonesia
 - [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id) - Purwokerto, Indonesia
