@@ -1,11 +1,16 @@
 # Apri Pandu Wicaksono
 
->Hi, 👋I’m Apri, a student from [Smk Telkom Purwokerto](https://github.com/smktelkompwt), also a software developer with 6 months intership experience who believes in changing the world 🧑‍💻. Usually use php, javascript, and css programming languages, for website programming I use the laravel framework, bootstrap, and vue javascript. I have a high curiosity to learn the features of a system 🚀
+>Graduated from [Smk Telkom Purwokerto](https://github.com/smktelkompwt) majoring in Software Engineering (RPL) who has work experience in the field of developing web and mobile based applications for 8 months. Active in the developer community and training on application development
 
-## ⚔️🛡Mission
->My mission in life isn't just to survive but to build something iconic. Maybe that is why I lead things, sometimes convince people why somethings are very important. 
+## 🛡Mission
 
->I believe in diverse skill sets and people as they make products and communities unique. 
+>Make program work smooth, easy to maintain for long term and also easy to develope
+
+## ⚔️Skill
+
+>Advance on rust, php and javascript
+
+>Intermediate on c++, java and lua
 
 ## 💼 Experience: 
 1. [Central Indonesia](https://github.com/Central-Indonesia) as Game Dev
