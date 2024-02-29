@@ -1,40 +1,26 @@
 # Apri Pandu Wicaksono
 
->Graduated from [Smk Telkom Purwokerto](https://github.com/smktelkompwt) majoring in Software Engineering (RPL) who has work experience in the field of developing web and mobile based applications for 8 months. Active in the developer community and training on application development
+>I am a vocational school graduate at [Smk Telkom Purwokerto](https://github.com/smktelkompwt) majoring in Software Engineering who has 9 months of internship experience in the field of web developer and mobile based applications. I am now pursuing a bachelor's degree in informatics at [Telkom Institute of Technology](https://ittelkom-pwt.ac.id). Passionate about majoring in informatics and make application to solve real-world problems. Eager to learn and grow, and excited to contribute to a team of talented programmer.
 
-## 🛡Mission
+## 🛡 Mission
 
->Make program work smooth, easy to maintain for long term and also easy to develope
+>Create programs that run smoothly, and create applications that can be improved in the long term, and are easy to develop
 
-## ⚔️Skill
+## 💼 Experience:
 
->Advance on rust, php and javascript
-
->Intermediate on c++, java and lua
-
-## 💼 Experience: 
-1. [Central Indonesia](https://github.com/Central-Indonesia) as Game Dev
-- Create game server from lua language
-- Learn how to optimize client and server
-- Learn how to encrypt code
-
-2. [Smk Telkom](https://github.com/smktelkompwt) as Student
-- Learn cloud computing
-- Learn vanila php syntax
-- Learn basic html, css, and javascript
-- Learn basic features in laravel framework
-- Learn basic features in javascript framework
-- Learn basic features in code igniter framework
-
-3. [Puskomedia](https://github.com/puskomedia) as Backend Dev
-- Create and maintenance website
-- Researched laravel framework features
-- Responded to some project
-
-4. [Braincode](https://gitlab.com/softegra-sinergi) as Backend Dev
-- Learn actix web in rust
-- Learn tide in rust
-- Learn solidjs syntax
+| <a href="https://github.com/Central-Indonesia">Central Indonesia</a> as Game Dev    | <a href="https://github.com/puskomedia">Puskomedia</a> as Backend Dev    | <a href="https://github.com/softegra-sinergi">Braincode</a> as Backend Dev   |
+| :---                                                                                | :---                                                                     | :---                                                                         |
+| - Create game server from lua language                                              | - Create and maintenance website                                         | - Learn actix web in rust                                                    |
+| - Learn how to optimize client and server                                           | - Researched laravel framework features                                  | - Learn tide in rust                                                         |
+| - Learn how to encrypt code                                                         | - Responded to some project                                              | - Learn solidjs syntax                                                       |
 
 ## 🎓 Education Background:
-- [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id) - Purwokerto, Indonesia
+
+| <a href="https://smktelkom-pwt.sch.id">SMK Telkom Purwokerto</a>                    |
+| :---                                                                                |
+| - Learn cloud computing                                                             |
+| - Learn vanila php syntax                                                           |
+| - Learn basic html, css, and javascript                                             |
+| - Learn basic features in laravel framework                                         |
+| - Learn basic features in javascript framework                                      |
+| - Learn basic features in javascript framework                                      |
