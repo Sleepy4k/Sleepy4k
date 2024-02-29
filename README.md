@@ -16,11 +16,9 @@
 
 ## 🎓 Education Background:
 
-| <a href="https://smktelkom-pwt.sch.id">SMK Telkom Purwokerto</a>                    |
-| :---                                                                                |
-| - Learn cloud computing                                                             |
-| - Learn vanila php syntax                                                           |
-| - Learn basic html, css, and javascript                                             |
-| - Learn basic features in laravel framework                                         |
-| - Learn basic features in javascript framework                                      |
-| - Learn basic features in javascript framework                                      |
+| <a href="https://smktelkom-pwt.sch.id">SMK Telkom Purwokerto</a>                                                                                          | <a href="https://ittelkom-pwt.ac.id">Telkom Institute of Technology</a>
+| :---                                                                                                                                                      | :---
+| - Explored programming languages such as Python, JavaScript, PHP, Kotlin, and Flutter                                                                     | - Explored programming languages such as c++, jupiter notebook
+| - Gained proficiency in database management, including MySQL, MongoDB, and Oracle, along with essential version control tools like Git and GitHub         |
+| - Applied Object-Oriented Programming principles to craft robust and efficient solutions                                                                  |
+| - Acquired knowledge in project management, encompassing the creation of Flowcharts, Use Cases, Class Diagrams, Sequence Diagrams, and Activity Diagrams  |
