@@ -4,21 +4,19 @@
 
 ## 💼 Experience:
 
-| <a href="https://github.com/Central-Indonesia">Central Indonesia</a> as Game Dev    | <a href="https://github.com/puskomedia">Puskomedia</a> as Backend Dev    |
+| <a href="https://github.com/softegra-sinergi">Braincode</a> as Backend Dev    | <a href="https://github.com/puskomedia">Puskomedia</a> as Backend Dev    |
 | :---                                                                                | :---                                                                     |
-| - Gainded hands-on expirience in game development with lua programming language     | - Assisted in the development of web applications using Laravel          |
-| - Gained hands-on expirience in game design and script optimization                 | - Gained hands-on experience in database design and optimization techniques using ORM and Builder |
-| - Collaborated with partner developers to make game more interesting                | - Collaborated with senior developers to troubleshoot and resolve project issues such as code error, server error, and database error |
-|                                                                                     | - Contributed to the creation of project documentation including instalation project, common issue, and code documentation |
-|                                                                                     | - Gained hands-on expirience in server configuration with linux kernel based, including firewall and project deployement |
+| - Assisted in the development of web applications using rust and solidjs     | - Assisted in the development of web applications using Laravel          |
+| - Gained hands-on experience in database design on postgreSQL server                 | - Gained hands-on experience in database design and optimization techniques using ORM and Builder |
+| - Collaborated with senior developers and main team to discuss about bug fixing, best practice and resolve coding issues                | - Collaborated with senior developers to troubleshoot and resolve project issues such as code error, server error, and database error |
+| - Contributed to the creation of project documentation including progress of issue, and code documentation | - Contributed to the creation of project documentation including instalation project, common issue, and code documentation |
+| - Gained hands-on expirience in server configuration with linux kernel based, including test and deploy project | - Gained hands-on expirience in server configuration with linux kernel based, including firewall and project deployement |
 
-| <a href="https://github.com/softegra-sinergi">Braincode</a> as Backend Dev                                               |
-| :---                                                                                                                     |
-| - Assisted in the development of web applications using rust and solidjs                                                 |
-| - Gained hands-on experience in database design on postgreSQL server                                                     |
-| - Collaborated with senior developers and main team to discuss about bug fixing, best practice and resolve coding issues |
-| - Contributed to the creation of project documentation including progress of issue, and code documentation               |
-| - Gained hands-on expirience in server configuration with linux kernel based, including test and deploy project          |
+| <a href="https://github.com/Central-Indonesia">Central Indonesia</a> as Game Dev    |
+| :---                                                                                |
+| - Gainded hands-on expirience in game development with lua programming language     |
+| - Gained hands-on expirience in game design and script optimization                 |
+| - Collaborated with partner developers to make game more interesting                |
 
 ## 🎓 Education Background:
 
