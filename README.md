@@ -30,7 +30,6 @@
 ## 📝 Stats:
 
 <div style="display: flex; justify-contect: space-between;">
-  <img height=200 width=450 align="center" alt="Github Contribution Stats" src="https://github-readme-stats.vercel.app/api?username=Sleepy4k" />
+  <img height=200 align="center" alt="Github Contribution Stats" src="https://github-readme-stats.vercel.app/api?username=Sleepy4k" />
   <img height=200 align="center" alt="Github Contribution Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sleepy4k&layout=compact&langs_count=8&card_width=320" />
-  <img height=200 align="center" alt="Github Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=Sleepy4k" />
 </div>
