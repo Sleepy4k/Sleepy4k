@@ -1,6 +1,6 @@
 # Apri Pandu Wicaksono
 
->I am a vocational school graduate at [Smk Telkom Purwokerto](https://github.com/smktelkompwt) majoring in Software Engineering who has 9 months of internship experience in the field of web developer and mobile based applications. I am now pursuing a bachelor's degree in informatics at [Telkom Institute of Technology](https://ittelkom-pwt.ac.id). Passionate about majoring in informatics and make application to solve real-world problems. Eager to learn and grow, and excited to contribute to a team of talented programmer.
+> I am a vocational school graduate at [Smk Telkom Purwokerto](https://github.com/smktelkompwt) majoring in Software Engineering who has 9 months of internship experience in the field of web developer and mobile based applications. I am now pursuing a bachelor's degree in informatics at [Telkom Institute of Technology](https://ittelkom-pwt.ac.id). Passionate about majoring in informatics and make application to solve real-world problems. Eager to learn and grow, and excited to contribute to a team of talented programmer.
 
 ## 💼 Experience:
 
@@ -26,3 +26,11 @@
 | - Gained proficiency in database management, including MySQL, MongoDB, and Oracle, along with essential version control tools like Git and GitHub         |
 | - Applied Object-Oriented Programming principles to craft robust and efficient solutions                                                                  |
 | - Acquired knowledge in project management, encompassing the creation of Flowcharts, Use Cases, Class Diagrams, Sequence Diagrams, and Activity Diagrams  |
+
+## 📝 Stats:
+
+<div style="display: flex; justify-contect: space-between;">
+  <img height=200 width=450 align="center" alt="Github Contribution Stats" src="https://github-readme-stats.vercel.app/api?username=Sleepy4k" />
+  <img height=200 align="center" alt="Github Contribution Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sleepy4k&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" alt="Github Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=Sleepy4k" />
+</div>
