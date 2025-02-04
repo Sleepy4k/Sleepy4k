@@ -5,7 +5,6 @@
 </div>
 <p style="text-align: left;" align="left">
   <b>Glad to see you here! &nbsp;</b>
-  <img src="https://komarev.com/ghpvc/?username=sleepy4k&label=Profile%20views&color=0e75b6&style=flat" alt="sleepy4k" />
   <br>
 </p>
 <div style="text-align: left;" align="left">
