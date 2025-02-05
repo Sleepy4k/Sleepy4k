@@ -3,18 +3,18 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   </h1>
 </div>
-<p style="text-align: left;" align="left">
-  <b>Glad to see you here! &nbsp;</b>
-  <br>
-</p>
 <div style="text-align: left;" align="left">
-  <p style="font-size: 20px;">I'm a graduate in Software Engineering 🎓 from SMK Telkom Purwokerto 🏛. And currently, I’m pursuing a bachelor’s degree in computer science at Telkom University Purwokerto 🏛. I'm a passionate software developer with a strong foundation in web development and mobile applications 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</p>
+  <h3>Glad to see you here! &nbsp;</h3>
+</div>
+<div style="text-align: left;" align="left">
+  <p style="font-size: 15px;">I'm a graduate in Software Engineering 🎓 from SMK Telkom Purwokerto 🏛. And currently, I’m pursuing a bachelor’s degree in computer science at Telkom University Purwokerto 🏛. I'm a passionate software developer with a strong foundation in web development and mobile applications 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</p>
 </div>
 <div style="text-align: left;">
   <h3>Talking about Personal Stuffs:</h3>
   <ul>
-    <li>🛠 &nbsp; I’m currently working with Nodejs, Laravel, React, <br> MySQL, Python, Javascript, etc. </li>
-    <li>🚀 &nbsp; I’m currently learning Artificial Intelligence</li>
+    <li>🛠 I’m currently working with Nodejs, Laravel, React, <br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, Python, Javascript, etc. </li>
+    <li>🚀 I’m currently learning Artificial Intelligence</li>
     <li>📫 How to reach me <b>
         <a href="mailto:sarahpalastrin@gmail.com">sarahpalastrin@gmail.com</a>
       </b>
