@@ -13,7 +13,7 @@
   <h3>Talking about Personal Stuffs:</h3>
   <ul>
     <li>🛠 I’m currently working with Nodejs, Laravel, React, <br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQL, Python, Javascript, etc. </li>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP, Python, Javascript, etc. </li>
     <li>🚀 I’m currently learning Artificial Intelligence</li>
     <li>📫 How to reach me <b>
         <a href="mailto:sarahpalastrin@gmail.com">sarahpalastrin@gmail.com</a>
